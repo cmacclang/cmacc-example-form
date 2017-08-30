@@ -1,6 +1,5 @@
-$ firstName = null
-
-$ lastName = null
+$ firstName = "Marc"
+$ lastName = "Dangeard"
 
 Hello my first name is: {{firstName}}
 
